@@ -34,6 +34,15 @@ write ./dist in outDir
   "outDir": "./dist", 
 
 ```
+<h1>rootDir</h1>
+
+![root](https://github.com/user-attachments/assets/62e1a033-c456-44de-9176-8847f58eefa6)
+
+<h1>outDir</h1>
+
+![ourdir](https://github.com/user-attachments/assets/95cf1b10-ed7d-4017-a578-0ee9952617dc)
+
+
 
 <h1>Express Js is now setup</h1>
 <h1>To Run </h1>
