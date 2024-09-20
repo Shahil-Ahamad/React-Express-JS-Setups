@@ -5,10 +5,24 @@
 open terminal
 
 mkdir <file_name>
+
+![mkdir](https://github.com/user-attachments/assets/f0fa2995-20ed-474a-a435-d84a505a723b)
+
 cd <file_name>
+
+![cd](https://github.com/user-attachments/assets/303c77d7-f7a1-4840-843c-e26d77e25db3)
+
+code .
+```
+<h1>code . will open your file in VS Code</h1>
+
+
+<h2>It will download the node_module</h1>
+
+```bash
 npm init
 ```
-<h1>It should download node_modules in your root</h1>
+
 
 ```bash
 npm install express
@@ -17,6 +31,8 @@ npm install express
 ```bash
 npm install express --no-save
 ```
+
+<h2>It will Download tsconfig.json in your root<h2>
 
 ```bash
 npm install -D typescript @types/node
@@ -45,6 +61,11 @@ write ./dist in outDir
 
 
 <h1>Express Js is now setup</h1>
+
+<h1>Now make folder in Vs code named src</h1>
+
+<h2>After making folder src make anny file and run the file</h2>
+
 <h1>To Run </h1>
 
 ```bash
