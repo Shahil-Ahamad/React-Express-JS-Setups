@@ -1,4 +1,4 @@
-<h1>To Setup React Js </h1>
+<h1>To Setup Node Js </h1>
 
 <h1>open terminal</h1>
 
