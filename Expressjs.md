@@ -58,7 +58,8 @@ npm install -D typescript @types/node
 npx tsc --init
 ```
 
-![tsconfig](https://github.com/user-attachments/assets/8d176bea-2180-415d-b047-1fba3918d6a8)
+![tsconfig](https://github.com/user-attachments/assets/df5cbab9-a2b5-4155-a65b-a7256cb91bd4)
+
 
 
 
