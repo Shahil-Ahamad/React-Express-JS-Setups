@@ -18,6 +18,10 @@ cd <file_name>
 ```bash
 code .
 ```
+
+![code](https://github.com/user-attachments/assets/6210ccc3-395c-4c37-95f2-de2729fb7715)
+
+
 <h1>code . will open your file in VS Code</h1>
 
 
