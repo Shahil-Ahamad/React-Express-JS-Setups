@@ -37,6 +37,7 @@ write ./dist in outDir
 
 <h1>Express Js is now setup</h1>
 <h1>To Run </h1>
+
 ```bash
 npx tsc
 node dist/src/file_name
