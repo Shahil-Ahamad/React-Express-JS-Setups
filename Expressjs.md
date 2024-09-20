@@ -25,16 +25,26 @@ code .
 <h1>code . will open your file in VS Code</h1>
 
 
-<h2>It will download the node_module</h1>
+<h2>It will download the packag.json file</h1>
+
+[text](https://github.com/user-attachments/assets/9cc8c1af-5b4a-4ab9-802c-e92ce18f6fa1)
 
 ```bash
 npm init
 ```
 
 
+
+![package](https://github.com/user-attachments/assets/16788e42-1681-4ef4-ab97-9732f69a06b5)
+
+<h2>It will download the node_module folder</h1>
+
 ```bash
 npm install express
 ```
+
+![node_modue](https://github.com/user-attachments/assets/340d417b-b1ab-4161-af6b-e9f7c9d39a5a)
+
 
 ```bash
 npm install express --no-save
@@ -44,11 +54,13 @@ npm install express --no-save
 
 ```bash
 npm install -D typescript @types/node
-```
 
-```bash
 npx tsc --init
 ```
+
+![tsconfig](https://github.com/user-attachments/assets/8d176bea-2180-415d-b047-1fba3918d6a8)
+
+
 
 <h1>There should be tsconfig.json file in your root.If not you done mistake </h1>
 
