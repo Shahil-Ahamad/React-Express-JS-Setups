@@ -2,8 +2,8 @@
 <h1>To Setup Express Js </h1>
 
 <h1>open terminal</h1>
-```bash
 
+```bash
 mkdir <file_name>
 ```
 
