@@ -85,7 +85,7 @@ write ./dist in outDir
 
 <h1>Now make folder in Vs code named src</h1>
 
-<h2>After making folder src make anny file and run the file</h2>
+<h2>After making folder src make any file and run the file</h2>
 
 <h1>To Run </h1>
 
