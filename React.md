@@ -13,14 +13,36 @@ mkdir <file_name>
 cd <file_name>
 ```
 
-![cd](https://github.com/user-attachments/assets/303c77d7-f7a1-4840-843c-e26d77e25db3)
+![cd](https://github.com/user-attachments/assets/d180d613-f13e-406e-9ffd-aeee0a6ae172)
+
+<h1>In Vite</h1>
+
+```bah
+npm create vite@latest
+```
+[text](https://github.com/user-attachments/assets/bfc8bdae-7e8d-4b1c-be2e-f4b02934f4e5)
+
 
 ```bash
 code .
 ```
 
-![code](https://github.com/user-attachments/assets/6210ccc3-395c-4c37-95f2-de2729fb7715)
+![code](https://github.com/user-attachments/assets/e6edad96-0357-4a8f-b03e-2002b2a72f3a)
 
 
 <h1>code . will open your file in VS Code</h1>
+
+<h1>The file root should look like this⬇️⬇️</h1>
+
+<h1>THEN</h1>
+<h2>Open terminal of VS Code </h2>
+
+<h2>It will download node_module</h2>
+
+```bash
+npm install
+```
+
+
+
 
