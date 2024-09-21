@@ -93,6 +93,9 @@ write ./dist in outDir
 
 ```bash
 npx tsc
+```
+
+```bash
 node dist/src/file_name
 ```
 
