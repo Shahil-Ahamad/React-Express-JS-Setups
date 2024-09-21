@@ -27,7 +27,7 @@ code .
 
 <h2>It will download the packag.json file</h1>
 
-[text](https://github.com/user-attachments/assets/9cc8c1af-5b4a-4ab9-802c-e92ce18f6fa1)
+(https://github.com/user-attachments/assets/9cc8c1af-5b4a-4ab9-802c-e92ce18f6fa1)
 
 ```bash
 npm init
@@ -54,7 +54,9 @@ npm install express --no-save
 
 ```bash
 npm install -D typescript @types/node
+```
 
+```bash
 npx tsc --init
 ```
 
